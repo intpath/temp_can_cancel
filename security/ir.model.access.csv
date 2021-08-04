@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_temp_can_cancel_temp_can_cancel,temp_can_cancel.temp_can_cancel,model_temp_can_cancel_temp_can_cancel,base.group_user,1,1,1,1
